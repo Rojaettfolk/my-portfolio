@@ -1,5 +1,4 @@
 ---
-title: "My Research"
-summary: "Exploring molecular interactions through computational modeling."
-layout: "research"
+title: "Research"
+summary: "Exploring molecular modeling, free energy calculations, and biomolecule-nanomaterial interactions."
 ---
