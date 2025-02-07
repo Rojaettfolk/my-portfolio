@@ -1,7 +1,7 @@
 ---
 name: "Roja Rahmani"
 role: "Computational Chemist & Researcher"
-avatar_filename: "photo.jpg"
+avatar_filename: "photo.png"
 bio: "I specialize in molecular modeling, free energy calculations, and biomolecule-nanomaterial interactions. Passionate about interdisciplinary research and data-driven modeling."
 interests:
   - Molecular Dynamics Simulations
