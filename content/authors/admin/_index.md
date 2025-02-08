@@ -14,3 +14,4 @@ education:
 email: "roja.rahmani@mmk.su.se"
 linkedin: "https://www.linkedin.com/in/rojarahmani/?originalSubdomain=se"
 google_scholar: "https://scholar.google.com/citations?user=d_L7oNgAAAAJ&hl=en"
+cv: "/media/Roja_Rahmani_CV.pdf"
